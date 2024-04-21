@@ -12,3 +12,5 @@ console.log(NaN !== 2);
 console.log(NaN == NaN);
 console.log(NaN === NaN);
 ```
+
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
